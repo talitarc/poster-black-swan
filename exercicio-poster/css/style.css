@@ -1,0 +1,20 @@
+body {
+    background-color: rgb(24, 21, 190);
+    text-align: center;
+    color: white;
+}
+
+p {
+    color: purple;
+}
+
+h1 {
+    color: white;
+    text-transform: uppercase;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+}
+
+seletor {
+    propriedade: valor;
+}
